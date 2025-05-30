@@ -1,0 +1,8 @@
+{
+  "scannerType": "wia",
+  "resolution": 300,
+  "outputFormat": "pdf",
+  "colorMode": "color",
+  "duplex": true,
+  "outputFileQuality": 40
+}
